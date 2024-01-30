@@ -11,7 +11,7 @@ namespace TugasBesar.controller
     internal class Pelanggan
     {
         //memanggil class dan membuat objek bary
-        koneksi koneksi = new koneksi();
+        Koneksi koneksi = new Koneksi();
 
         //method insert
         public bool Insert(M_Pelanggan pelanggan)
@@ -20,7 +20,7 @@ namespace TugasBesar.controller
             try
             {
                 koneksi.OpenConnection();
-                koneksi.ExecuteQuery("INSERT INTO t_pelanggan (id_pelanggan, nama, alamat, email, nohp) VALUES('" + pelanggan.Id_pelanggan + "', '" +
+                koneksi.ExecuteQuery("INSERT INTO t_pelanggann ( nama, alamat, email, nohp) VALUES('" +
                 pelanggan.Nama + "','"  + pelanggan.Alamat +
                 "','" + pelanggan.Email + "','" + pelanggan.Nohp + "')");
                 status = true;
@@ -42,7 +42,7 @@ namespace TugasBesar.controller
             try
             {
                 koneksi.OpenConnection();
-                koneksi.ExecuteQuery("UPDATE t_mahasiswa SET nama='" + pelanggan.Nama + "'," + "alamat='" + pelanggan.Alamat + "'," + "email='" + pelanggan.Email + "'," + "nohp='" + pelanggan.Nohp + "' WHERE id_pelanggan = '" + id_pelanggan + "'");
+                koneksi.ExecuteQuery("UPDATE t_pelanggann SET nama='" + pelanggan.Nama + "'," + "alamat='" + pelanggan.Alamat + "'," + "email='" + pelanggan.Email + "'," + "nohp='" + pelanggan.Nohp + "' WHERE id_pelanggan = '" + id_pelanggan + "'");
                 status = true;
                 MessageBox.Show("Data berhasil diubah", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 koneksi.CloseConnection();
@@ -61,7 +61,7 @@ namespace TugasBesar.controller
             try
             {
                 koneksi.OpenConnection();
-                koneksi.ExecuteQuery("DELETE FROM t_pelanggan WHERE id_pelanggan='" + id_pelanggan + "'");
+                koneksi.ExecuteQuery("DELETE FROM t_pelanggann WHERE id_pelanggan='" + id_pelanggan + "'");
                 status = true;
                 MessageBox.Show("Data berhasil dihapus", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 koneksi.CloseConnection();

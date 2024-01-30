@@ -9,7 +9,7 @@ using MySqlConnector;
 
 namespace TugasBesar.controller
 {
-    internal class koneksi
+    internal class Koneksi
     {
         string connectionstring = "Server=localhost;Database=tbesar;Uid=root;Pwd=;";
         MySqlConnection kon;

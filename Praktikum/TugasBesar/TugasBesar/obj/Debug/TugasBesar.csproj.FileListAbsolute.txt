@@ -25,3 +25,76 @@ C:\SEMESTER3\Tugas Besar\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.cs
 C:\SEMESTER3\Tugas Besar\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.CopyComplete
 C:\SEMESTER3\Tugas Besar\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.exe
 C:\SEMESTER3\Tugas Besar\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.pdb
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\TugasBesar.exe.config
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\TugasBesar.exe
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\TugasBesar.pdb
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\MySqlConnector.dll
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Buffers.dll
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Memory.dll
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Numerics.Vectors.dll
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\MySqlConnector.xml
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Buffers.xml
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Memory.xml
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Numerics.Vectors.xml
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.AssemblyReference.cache
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Form1.resources
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Properties.Resources.resources
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.GenerateResource.cache
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.CoreCompileInputs.cache
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.CopyComplete
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.exe
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.pdb
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.ParentFrom.resources
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.FormLogin.resources
+C:\SEMUA DATA\SEMESTER 3\PEMROGRAMAN II_PBO\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.StartUp.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\TugasBesar.exe.config
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\TugasBesar.exe
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\TugasBesar.pdb
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\MySqlConnector.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Buffers.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Memory.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Numerics.Vectors.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\MySqlConnector.xml
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Buffers.xml
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Memory.xml
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Numerics.Vectors.xml
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.AssemblyReference.cache
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Form1.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Properties.Resources.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.FormLogin.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.ParentFrom.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.StartUp.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.GenerateResource.cache
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.CoreCompileInputs.cache
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.CopyComplete
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.exe
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.pdb
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.FormBarang.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.ParentFromUser.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.StartUpUser.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.FormUser.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.FormRegister.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\obj\Debug\TugasBesar.view.FormTransaksiBarang.resources
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\EPPlus.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\EPPlus.Interfaces.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\EPPlus.System.Drawing.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\System.ComponentModel.Annotations.dll
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\EPPlus.xml
+C:\SEMUA DATA\SEMESTER 3\tugasbesarbgtpbo\Praktikum\TugasBesar\TugasBesar\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml

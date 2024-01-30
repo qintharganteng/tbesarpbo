@@ -15,12 +15,12 @@ namespace TugasBesar
 { 
         public partial class Form1 : Form
         {
-            koneksi koneksi = new koneksi();
+            Koneksi koneksi = new Koneksi();
             M_Pelanggan m_pgl = new M_Pelanggan();
 
             public void Tampil()
             {
-                string query = "SELECT*FROM t_pelanggan";
+                string query = "SELECT*FROM t_pelanggann";
                 //Query DB Get MGS
                 DataPelanggan.DataSource = koneksi.ShowData(query);
             }
@@ -32,11 +32,6 @@ namespace TugasBesar
 
             public void ResetForm()
             {
-                tbpelanggan.Text = "";
-                tbnama.Text = "";
-                tbalamat.Text = "";
-                tbemail.Text = "";
-                tbnohp.Text = "";
                 tbCariData.Text = "";
             }
 
@@ -61,65 +56,18 @@ namespace TugasBesar
 
         private void btnSimpan_Click_1(object sender, EventArgs e)
         {
-            if (tbpelanggan.Text == "" || tbnama.Text == "" || tbalamat.Text == "" || tbemail.Text == "" || tbnohp.Text == "")
-            {
-                MessageBox.Show("Data tidak boleh kosong", "Peringatan",
-                MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
-            else
-            {
-                Pelanggan pgl = new Pelanggan();
-                m_pgl.Id_pelanggan = tbpelanggan.Text;
-                m_pgl.Nama = tbnama.Text;
-                m_pgl.Alamat = tbalamat.Text;
-                m_pgl.Email = tbemail.Text;
-                m_pgl.Nohp = tbnohp.Text;
-
-                pgl.Insert(m_pgl);
-
-                ResetForm();
-                Tampil();
-
-
-            }
+      
         }
 
         private void btnUbah_Click_1(object sender, EventArgs e)
         {
-            if (tbpelanggan.Text == "" || tbnama.Text == "" || tbalamat.Text == "" || tbemail.Text == "" || tbnohp.Text == "")
-            {
-                MessageBox.Show("Data tidak boleh kosong", "Peringatan",
-                MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
-            else
-            {
-                controller.Pelanggan pgl = new controller.Pelanggan();
-                m_pgl.Id_pelanggan = tbpelanggan.Text;
-                m_pgl.Nama = tbnama.Text;
-                m_pgl.Alamat = tbalamat.Text;
-                m_pgl.Email = tbemail.Text;
-                m_pgl.Nohp = tbnohp.Text;
+           
 
-                string id_pelanggan = tbpelanggan.Text;
-                pgl.Update(m_pgl, id_pelanggan);
-
-                ResetForm();
-                Tampil();
-
-            }
+            
         }
 
         private void btnHapus_Click_1(object sender, EventArgs e)
         {
-            DialogResult pesan = MessageBox.Show("Apakah anda yakin akan menghapus data ini?", "Perhatian", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-
-            if (pesan == DialogResult.Yes)
-            {
-                Pelanggan pgl = new Pelanggan();
-                pgl.Delete(tbpelanggan.Text);
-                ResetForm();
-                Tampil();
-            }
         }
 
         private void Form1_Click(object sender, EventArgs e)
@@ -134,15 +82,18 @@ namespace TugasBesar
 
         private void DataPelanggan_CellClick_1(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.RowIndex >= 0 && e.RowIndex < DataPelanggan.Rows.Count)
-            {
-                tbpelanggan.Text = DataPelanggan.Rows[e.RowIndex].Cells[0].Value.ToString();
-                tbnama.Text = DataPelanggan.Rows[e.RowIndex].Cells[1].Value.ToString();
-                tbalamat.Text = DataPelanggan.Rows[e.RowIndex].Cells[2].Value.ToString();
-                tbemail.Text = DataPelanggan.Rows[e.RowIndex].Cells[3].Value.ToString();
-                tbnohp.Text = DataPelanggan.Rows[e.RowIndex].Cells[4].Value.ToString();
-            }
+ 
            
+        }
+
+        private void tbpelanggan_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbCariData_TextChanged(object sender, EventArgs e)
+        {
+            DataPelanggan.DataSource = koneksi.ShowData("SELECT * FROM t_pelanggann WHERE id_pelanggan LIKE '%' '" + tbCariData.Text + "' '%' OR nama LIKE '%' '" + tbCariData.Text + "' '%' OR alamat LIKE '%' '" + tbCariData.Text + "' '%' OR email LIKE '%' '" + tbCariData.Text + "' '%' OR nohp LIKE '%' '" + tbCariData.Text + "'");
         }
     }
     }
